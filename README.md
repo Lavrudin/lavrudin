@@ -32,6 +32,12 @@ Me chamo Durval. Atualmente, sou estudante de análise e desenvolvimento de sist
  - Outros interesses:
  
    ![REACT Badge](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
+   
+   
+  - Projetinhos:
+  
+    ###### Skill "Dicas Linux" para dispositivos Alexa
+    https://www.amazon.com.br/Durval-Henrique-Dicas-Linux/dp/B08DRT1G7T
 
 
  
