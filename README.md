@@ -1,4 +1,5 @@
 # 👨🏾‍💻 Durval Henrique
+###### https://www.durvalhenrique.dev.br/
 [![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Lavrudin)](https://github.com/Lavrudin)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/durval-henrique-de-souza-6555731a0/)](https://www.linkedin.com/in/durval-henrique-de-souza-6555731a0/)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/durvalhenriquee/?hl=pt-br)](https://www.instagram.com/durvalhenriquee/?hl=pt-br)
@@ -21,6 +22,19 @@ Me chamo Durval. Atualmente, sou estudante de análise e desenvolvimento de sist
 
    ![NODE Badge](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
    ![REACT Badge](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+   
+   
+ - Sistema operacional:
+ 
+   ![REACT Badge](https://img.shields.io/badge/debian-E95420?logo=debian&logoColor=white&style=for-the-badge)
+   
+   
+ - Outros interesses:
+ 
+   ![REACT Badge](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
+ 
    
 
 <!--
