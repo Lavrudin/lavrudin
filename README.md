@@ -6,7 +6,7 @@
 
 
 ### Opa! Sejam bem-vindos, meus consagrados :octocat: 
-Me chamo Durval. Atualmente, sou estudante de análise e desenvolvimento de sistemas e possuo a sagrada missão de tornar-me um desenvolvedor web fullstack. Entusiasta do sistema do pinguim e software livre. 
+Me chamo Durval. Atualmente, sou estudante de análise e desenvolvimento de sistemas e possuo a sagrada missão de tornar-me um desenvolvedor web fullstack. Me considero um entusiasta do sistema do pinguim e do software livre em geral. 
 
 - Stacks:
 
