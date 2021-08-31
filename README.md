@@ -1,4 +1,4 @@
-<h1>Olá!! Me chamo<span style="color:#48A9A6"> Durval Henrique<span>.<h1>
+<h1>Olá!! Me chamo Durval Henrique.<h1>
 
 <div>
   <a href="https://github.com/Lavrudin">
