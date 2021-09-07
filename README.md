@@ -13,7 +13,7 @@
   <img align="center" alt="Lavrudin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lavrudin-SASS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
   <img align="center" alt="Lavrudin-LINUX" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Lavrudin-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/git-original.svg">
+  <img align="center" alt="Lavrudin-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
 
 ##
