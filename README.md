@@ -1,69 +1,33 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Lavrudin/lavrudin/blob/main/banner.png" />
-&nbsp;&nbsp;&nbsp;
+## Olá! Seja bem-vindo ao meu perfil no GitHub 👨‍💻
 
-<p align="center">Olá! Seja bem-vindo ao meu perfil no GitHub :octocat:.</p>&nbsp;
+[![GIF animado (ex: código digitando)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk2dWk5d2l3d2RjZ3Z5bWJ6eGJ6NnRmb2l5M2JtYzZ0eGJ6dWJmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)](https://giphy.com/)
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lavrudin&theme=dracula&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=lavrudin&show_icons=true&theme=dracula&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+## Desenvolvedor Web
 
+💻 Apaixonado por criar soluções web eficientes e modernas  
+🌱 Especializado em: Front-end </br>
+🚀 Atualmente trabalhando como Líder de equipe de suporte técnico de TI (Service Desk) na Service IT
 
+### 🛠 Stack Principal
 
-## Minhas Habilidades
+<div style="display: flex; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Front-end" title="Front-end">
+  <!--<img src="https://skillicons.dev/icons?i=react,nodejs,express" alt="Full Stack" title="Full Stack">-->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" alt="Ferramentas" title="Ferramentas">
+</div>
 
-#### Front-End:
+### 📌 Projetos em Destaque
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)&nbsp;
+[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=lavrudin&repo=diolinux-team-bot&theme=dracula)](https://github.com/Lavrudin/diolinux-team-bot)
+[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=lavrudin&repo=apod-nasa&theme=dracula)](https://github.com/Lavrudin/apod-nasa)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+### 📊 Minhas Estatísticas
 
-#### Framework e Biblioteca:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavrudin&layout=compact&theme=dracula)](https://github.com/lavrudin)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=lavrudin&theme=dracula)](https://git.io/streak-stats)-->
 
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![Tailwind.css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+### 📫 Meus Contatos
 
-#### Versionamento:
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-#### Sistema Operacional:
-
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-
-#### Gerenciador de Pacote:
-
-![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
-![Pnpm](https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white)&nbsp;
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)&nbsp;
-
-#### Editor de Texto / IDE:
-
-![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-
-&nbsp;
-&nbsp;
-
-## Contato:
-
-<div> 
-<a href="https://www.instagram.com/durvalhenriquesouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:durvalhenriquesouza93@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://br.linkedin.com/in/durval-henrique-de-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
-
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6E96&height=120&section=footer"/>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30">](https://www.linkedin.com/in/durval-henrique-de-souza-6555731a0/)
+[<img src="https://img.icons8.com/color/48/000000/gmail.png" width="30">](mailto:durvalhenriquesouza93@gmail.com)
+[<img src="https://img.icons8.com/color/48/000000/instagram.png" width="30">](https://instagram.com/durvalhenriquesouza)
